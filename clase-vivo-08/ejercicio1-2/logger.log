@@ -1,0 +1,44 @@
+method: GETtime: 2024-01-14 20:42:07.357947 -0300 -03 m=+0.819948501url: /product
+method: GETtime: 2024-01-14 20:42:08.311076 -0300 -03 m=+1.773079209url: /product
+method: GET time: 2024-01-14T20:54:40-03:00 url: /product
+method: GET time: 2024-01-14T20:54:54-03:00 url: /product
+method: GET time: 2024-01-14T20:54:55-03:00 url: /product
+method: GET time: 2024-01-14T20:54:55-03:00 url: /product
+method: GET time: 2024-01-14T20:54:56-03:00 url: /product
+method: GET time: 2024-01-14T20:54:56-03:00 url: /product
+method: GET time: 2024-01-14T20:55:07-03:00 url: /producttttt
+method: GET time: 2024-01-14T20:55:13-03:00 url: /producttttt
+method: GET time: 2024-01-14T20:55:20-03:00 url: /product
+method: POST time: 2024-01-15T07:25:02-03:00 url: /product
+method: POST time: 2024-01-15T07:50:56-03:00 url: /product
+method: POST time: 2024-01-15T08:05:04-03:00 url: /product
+method: POST time: 2024-01-15T08:17:01-03:00 url: /product
+method: POST time: 2024-01-15T08:18:25-03:00 url: /product
+method: POST time: 2024-01-15T08:18:27-03:00 url: /product
+method: POST time: 2024-01-15T08:25:24-03:00 url: /product
+method: POST time: 2024-01-15T08:25:26-03:00 url: /product
+method: POST time: 2024-01-15T08:25:27-03:00 url: /product
+method: POST time: 2024-01-15T08:28:40-03:00 url: /product
+method: POST time: 2024-01-15T08:29:45-03:00 url: /product
+method: POST time: 2024-01-15T08:30:19-03:00 url: /product
+method: GET time: 2024-01-15T08:42:33-03:00 url: /product
+method: GET time: 2024-01-15T09:12:52-03:00 url: /product
+method: GET time: 2024-01-15T09:12:59-03:00 url: /product
+method: GET time: 2024-01-15T09:13:00-03:00 url: /product
+method: GET time: 2024-01-15T09:13:02-03:00 url: /product
+method: GET time: 2024-01-15T09:13:02-03:00 url: /product
+method: GET time: 2024-01-15T09:13:04-03:00 url: /product
+method: GET time: 2024-01-15T09:22:20-03:00 url: /productsize body 0
+method: GET time: 2024-01-15T09:22:51-03:00 url: /productsize body 0
+method: GET time: 2024-01-15T09:22:55-03:00 url: /productsize body 0
+method: GET time: 2024-01-15T09:22:56-03:00 url: /productsize body 0
+method: POST time: 2024-01-15T12:37:26-03:00 url: /productsize body 161
+method: GET time: 2024-01-15T12:37:35-03:00 url: /productsize body 0
+method: GET time: 2024-01-15T12:37:44-03:00 url: /productsize body 0
+method: GET time: 2024-01-15T21:04:27-03:00 url: /healthsize body 0
+method: GET time: 2024-01-15T21:04:38-03:00 url: /healthsize body 0
+method: GET time: 2024-01-15T21:04:39-03:00 url: /healthsize body 0
+method: GET time: 2024-01-16T12:59:14-03:00 url: /productsize body 0
+method: POST time: 2024-01-16T12:59:37-03:00 url: /productsize body 161
+method: POST| time: 2024-01-16T13:13:05-03:00| url: /product| size body 161
+method: POST | time: 2024-01-16T13:13:36-03:00 | url: /product | size body: 161
